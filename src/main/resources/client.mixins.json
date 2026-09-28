@@ -1,0 +1,9 @@
+{
+	"required": true,
+	"package": "skyhanni.Mixins",
+	"compatibilityLevel": "JAVA_25",
+	"client": ["SodiumLevelSliceMixin"],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
